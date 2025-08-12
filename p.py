@@ -54,7 +54,6 @@ fruit2.pop(2)
 #last element
 fruit2.pop
 #delete
-del 
 print(fruit2)
 #useful method in list
 num=[1,4,5,8,5,8,0,1]

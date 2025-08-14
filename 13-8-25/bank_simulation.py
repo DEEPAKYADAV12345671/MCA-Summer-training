@@ -3,7 +3,7 @@ import random
 # Base Class
 class BankAccount:
     def __init__(self, account_holder, balance):
-        self.account_number = self._generate_account_number()
+        self.account_number = self._generate_account_number() # This is a private method
         self.account_holder = account_holder
         self.balance = balance
 
